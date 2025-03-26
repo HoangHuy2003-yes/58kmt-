@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3762ab02-0628-4d3a-b666-88fbe9f0d7d6)# 58kmt-
+ 58kmt-
 bài tập 02 của sv; - Chu Hoàng Huy - môn quản trị 
 
 1 đầu tiên ta tạo bảng KHOA ( bảng cha của Bomon); ![image](https://github.com/user-attachments/assets/a614f8d1-ae8a-4ddd-81cd-7945b1aa87d2)
@@ -11,6 +11,7 @@ bài tập 02 của sv; - Chu Hoàng Huy - môn quản trị
 8 bảng MonHoc ( bảng cha của LopHP) ![image](https://github.com/user-attachments/assets/8058581e-0417-45e7-8979-4b7befe3b1bc)
 9 bảng LớpHP ( bảng con của MonHoc, Giáo Viên) ![image](https://github.com/user-attachments/assets/2433e4ba-633e-4a08-8831-82894fb13120)
 10 bảng DKMH ( bảng trung gian giữa LopHP và SinhVien) ![image](https://github.com/user-attachments/assets/b0343123-c821-486a-9e34-f73ded0c875f)
+
 
 
 
