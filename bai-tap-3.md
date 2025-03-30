@@ -48,3 +48,6 @@ WHERE
 
 ![image](https://github.com/user-attachments/assets/60f625ca-bb14-4991-988c-616c661f904a)
 
+5. **Xuất file .sql**
+ 
+ ![image](https://github.com/user-attachments/assets/03a860f8-2a28-4a00-8e5d-4d6ff21cabde)
